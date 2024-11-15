@@ -48,4 +48,8 @@ A footnote can also have multiple lines[^2].
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
