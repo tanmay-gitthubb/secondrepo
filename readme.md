@@ -53,3 +53,17 @@ A footnote can also have multiple lines[^2].
 | January  | $250    |
 | February | $80     |
 | March    | $420    |
+
+
+**now one mathematical expression**
+$\sqrt{3x-1}+(1+x)^2$
+
+**now a basic function code in java**
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+
