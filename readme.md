@@ -1,4 +1,4 @@
-#this is my first heading using markdown.
+# this is my first heading using markdown.
 **this text is bold**
 _this is italic style text_
 >I have quoted this text
